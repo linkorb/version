@@ -19,8 +19,8 @@
             "role": "Development"
         }
     ],
-    "require": {},
     "require-dev": {
+        "phpunit/phpunit": "^9.6"
     },
     "autoload": {
         "psr-4": {
